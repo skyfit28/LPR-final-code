@@ -1,0 +1,335 @@
+2025-01-10 22:28:36,796 - ERROR - Error loading models: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/cnn_license_plate_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-01-10 22:28:36,797 - ERROR - Application error: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/cnn_license_plate_model.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)
+2025-01-10 22:29:48,219 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-01-10 22:29:48,257 - INFO - Models loaded successfully
+2025-01-10 22:30:13,611 - INFO - Recorded violation: 0
+2025-01-10 22:30:13,661 - INFO - Recorded violation: 0
+2025-01-10 22:30:13,726 - INFO - Recorded violation: 0
+2025-01-10 22:30:13,787 - INFO - Recorded violation: 0
+2025-01-10 22:30:18,853 - INFO - Recorded violation: 0
+2025-01-10 22:30:20,316 - INFO - Recorded violation: 0
+2025-01-10 22:30:20,490 - INFO - Recorded violation: 0
+2025-01-10 22:30:20,971 - INFO - Recorded violation: 0
+2025-01-10 22:30:21,106 - INFO - Recorded violation: 0
+2025-01-10 22:30:22,487 - INFO - Recorded violation: 0
+2025-01-10 22:30:22,849 - INFO - Recorded violation: 0
+2025-01-10 22:30:23,035 - INFO - Recorded violation: 0
+2025-01-10 22:30:23,158 - INFO - Recorded violation: 0
+2025-01-10 22:30:23,284 - INFO - Recorded violation: 0
+2025-01-10 22:30:23,439 - INFO - Recorded violation: 0
+2025-01-10 22:30:23,561 - INFO - Recorded violation: 0
+2025-01-10 22:30:23,688 - INFO - Recorded violation: 0
+2025-01-10 22:30:23,844 - INFO - Recorded violation: 0
+2025-01-10 22:30:24,332 - INFO - Recorded violation: 0
+2025-01-10 22:30:24,555 - INFO - Recorded violation: 0
+2025-01-10 22:30:25,416 - INFO - Recorded violation: 0
+2025-01-10 22:30:25,757 - INFO - Recorded violation: 0
+2025-01-10 22:30:25,935 - INFO - Recorded violation: 0
+2025-01-10 22:30:26,154 - INFO - Recorded violation: 0
+2025-01-10 22:30:27,322 - INFO - Recorded violation: 0
+2025-01-10 22:30:27,482 - INFO - Recorded violation: 0
+2025-01-10 22:30:29,054 - INFO - Recorded violation: 0
+2025-01-10 22:30:29,438 - INFO - Recorded violation: 0
+2025-01-10 22:30:29,648 - INFO - Recorded violation: 0
+2025-01-10 22:30:29,837 - INFO - Recorded violation: 0
+2025-01-10 22:30:29,961 - INFO - Recorded violation: 0
+2025-01-10 22:30:30,092 - INFO - Recorded violation: 0
+2025-01-10 22:30:30,241 - INFO - Recorded violation: 0
+2025-01-10 22:30:30,358 - INFO - Recorded violation: 0
+2025-01-10 22:30:30,480 - INFO - Recorded violation: 0
+2025-01-10 22:30:30,640 - INFO - Recorded violation: 0
+2025-01-10 22:30:30,759 - INFO - Recorded violation: 0
+2025-01-10 22:30:30,931 - INFO - Recorded violation: 0
+2025-01-10 22:30:31,043 - INFO - Recorded violation: 0
+2025-01-10 22:30:31,440 - INFO - Recorded violation: 0
+2025-01-10 22:30:31,659 - INFO - Recorded violation: 0
+2025-01-10 22:30:31,841 - INFO - Recorded violation: 0
+2025-01-10 22:30:33,349 - INFO - Recorded violation: 0
+2025-01-10 22:30:33,528 - INFO - Recorded violation: 0
+2025-01-10 22:30:33,631 - INFO - Recorded violation: 0
+2025-01-10 22:30:33,934 - INFO - Recorded violation: 0
+2025-01-10 22:30:34,056 - INFO - Recorded violation: 0
+2025-01-10 22:30:34,654 - INFO - Recorded violation: 0
+2025-01-10 22:30:34,774 - INFO - Recorded violation: 0
+2025-01-10 22:30:35,332 - INFO - Recorded violation: 0
+2025-01-10 22:31:33,893 - INFO - Recorded violation: 0
+2025-01-10 22:31:34,054 - INFO - Recorded violation: 0
+2025-01-10 22:31:34,421 - INFO - Recorded violation: 0
+2025-01-10 22:31:34,545 - INFO - Recorded violation: 0
+2025-01-10 22:31:34,689 - INFO - Recorded violation: 0
+2025-01-10 22:31:34,811 - INFO - Recorded violation: 0
+2025-01-10 22:31:34,943 - INFO - Recorded violation: 0
+2025-01-10 22:31:35,087 - INFO - Recorded violation: 0
+2025-01-10 22:31:35,206 - INFO - Recorded violation: 0
+2025-01-10 22:31:35,332 - INFO - Recorded violation: 0
+2025-01-10 22:31:35,486 - INFO - Recorded violation: 0
+2025-01-10 22:31:35,614 - INFO - Recorded violation: 0
+2025-01-10 22:31:35,745 - INFO - Recorded violation: 0
+2025-01-10 22:31:35,886 - INFO - Recorded violation: 0
+2025-01-10 22:31:36,004 - INFO - Recorded violation: 0
+2025-01-10 22:31:36,500 - INFO - Recorded violation: 0
+2025-01-10 22:31:36,694 - INFO - Recorded violation: 0
+2025-01-10 22:31:36,822 - INFO - Recorded violation: 0
+2025-01-10 22:31:36,960 - INFO - Recorded violation: 0
+2025-01-10 22:31:37,224 - INFO - Recorded violation: 0
+2025-01-10 22:31:37,346 - INFO - Recorded violation: 0
+2025-01-10 22:31:37,485 - INFO - Recorded violation: 0
+2025-01-10 22:31:37,615 - INFO - Recorded violation: 0
+2025-01-10 22:31:37,740 - INFO - Recorded violation: 0
+2025-01-10 22:31:37,891 - INFO - Recorded violation: 0
+2025-01-10 22:31:38,010 - INFO - Recorded violation: 0
+2025-01-10 22:31:38,131 - INFO - Recorded violation: 0
+2025-01-10 22:32:16,224 - INFO - Recorded violation: 0
+2025-01-10 22:32:16,370 - INFO - Recorded violation: 0
+2025-01-10 22:32:16,506 - INFO - Recorded violation: 0
+2025-01-10 22:32:17,228 - INFO - Recorded violation: 0
+2025-01-10 22:32:17,346 - INFO - Recorded violation: 0
+2025-01-10 22:32:17,484 - INFO - Recorded violation: 0
+2025-01-10 22:32:17,767 - INFO - Recorded violation: 0
+2025-01-10 22:32:18,095 - INFO - Recorded violation: 0
+2025-01-10 22:32:18,507 - INFO - Recorded violation: 0
+2025-01-10 22:32:18,657 - INFO - Recorded violation: 0
+2025-01-10 22:32:19,512 - INFO - Recorded violation: 0
+2025-01-10 22:32:19,638 - INFO - Recorded violation: 0
+2025-01-10 22:32:19,763 - INFO - Recorded violation: 0
+2025-01-10 22:32:20,470 - INFO - Recorded violation: 0
+2025-01-10 22:32:20,647 - INFO - Recorded violation: 0
+2025-01-10 22:32:20,815 - INFO - Recorded violation: 0
+2025-01-10 22:32:20,939 - INFO - Recorded violation: 0
+2025-01-10 22:32:21,435 - INFO - Recorded violation: 0
+2025-01-10 22:32:21,727 - INFO - Recorded violation: 0
+2025-01-10 22:32:21,918 - INFO - Recorded violation: 0
+2025-01-10 22:32:22,031 - INFO - Recorded violation: 0
+2025-01-10 22:32:22,165 - INFO - Recorded violation: 0
+2025-01-10 22:32:23,632 - INFO - Recorded violation: 0
+2025-01-10 22:32:23,798 - INFO - Recorded violation: 0
+2025-01-10 22:32:24,136 - INFO - Recorded violation: 0
+2025-01-10 22:32:34,102 - INFO - Recorded violation: 0
+2025-01-10 22:32:34,282 - INFO - Recorded violation: 0
+2025-01-10 22:32:34,388 - INFO - Recorded violation: 0
+2025-01-10 22:32:34,613 - INFO - Recorded violation: 0
+2025-01-10 22:38:43,986 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,128 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,244 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,316 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,395 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,508 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,639 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,775 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:44,903 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:45,038 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:45,174 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:45,582 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:45,707 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:45,844 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:45,974 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:46,107 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:46,507 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:46,778 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:46,879 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:46,988 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,084 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,182 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,275 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,372 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,481 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,577 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,675 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,773 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,884 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:47,981 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:48,084 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:48,180 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:48,285 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:48,682 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:48,779 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:38:48,874 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:21,756 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:24,032 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:24,101 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:29,373 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:29,510 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:29,774 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:29,914 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 22:47:30,145 - ERROR - Error in plate recognition: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-01-10 23:04:55,445 - INFO - Recorded violation: D1234
+2025-01-10 23:04:56,316 - INFO - Recorded violation: NBC1234
+2025-01-10 23:04:59,953 - INFO - Recorded violation: E1256
+2025-01-10 23:06:54,410 - INFO - Recorded violation: ABY512
+2025-01-10 23:06:58,777 - INFO - Recorded violation: ABY8912
+2025-01-10 23:07:08,581 - INFO - Recorded violation: BY2512
+2025-01-10 23:07:11,788 - INFO - Recorded violation: ABY8512
+2025-01-10 23:07:14,980 - INFO - Recorded violation: B9BY8512
+2025-01-10 23:07:15,683 - INFO - Recorded violation: B8Y9512
+2025-01-10 23:07:20,782 - INFO - Recorded violation: ABY9512
+2025-01-10 23:07:21,114 - INFO - Recorded violation: ABY0512
+2025-01-10 23:33:14,015 - INFO - Recorded violation: P2050 - Number Coding
+2025-01-10 23:33:46,817 - INFO - Recorded violation: B2030 - Number Coding
+2025-01-10 23:33:49,050 - INFO - Recorded violation: CBC2050 - Number Coding
+2025-01-10 23:33:50,042 - INFO - Recorded violation: T2050 - Number Coding
+2025-01-10 23:34:01,969 - INFO - Recorded violation: CEC2080 - Number Coding
+2025-01-10 23:34:02,236 - INFO - Recorded violation: CEC2680 - Number Coding
+2025-01-10 23:34:24,632 - INFO - Recorded violation: CBC2080 - Number Coding
+2025-01-11 00:23:21,416 - ERROR - Error recording violation: [Errno 13] Permission denied: 'violations.xlsx'
+2025-01-11 00:23:24,016 - ERROR - Error recording violation: [Errno 13] Permission denied: 'violations.xlsx'
+2025-01-11 00:23:24,263 - ERROR - Error recording violation: [Errno 13] Permission denied: 'violations.xlsx'
+2025-01-11 00:23:28,112 - ERROR - Error recording violation: [Errno 13] Permission denied: 'violations.xlsx'
+2025-01-11 00:23:48,028 - INFO - Recorded violation: NBC1234 - Number Coding
+2025-01-11 00:23:53,422 - INFO - Recorded violation: B1234 - Number Coding
+2025-01-11 00:23:54,178 - INFO - Recorded violation: INBC1234 - Number Coding
+2025-01-12 08:59:04,781 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:05,895 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:06,244 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:06,617 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:07,278 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:07,720 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:08,386 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:08,837 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:09,236 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:09,924 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:10,246 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:10,922 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:11,602 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:12,597 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:13,269 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:13,722 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 08:59:14,164 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:11,628 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:13,095 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:13,773 - ERROR - Invalid plate number format: 2BY2512N
+2025-01-12 09:01:14,114 - ERROR - Invalid plate number format: ABY8512N
+2025-01-12 09:01:14,399 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:15,583 - ERROR - Invalid plate number format: Y9512N
+2025-01-12 09:01:16,316 - ERROR - Invalid plate number format: Y2512N
+2025-01-12 09:01:18,406 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:20,504 - ERROR - Invalid plate number format: ABY9512N
+2025-01-12 09:01:21,157 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:21,701 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:22,109 - ERROR - Invalid plate number format: 9512N
+2025-01-12 09:01:23,604 - ERROR - Invalid plate number format: 989572N
+2025-01-12 09:01:23,953 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:24,219 - ERROR - Invalid plate number format: 9512N
+2025-01-12 09:01:26,007 - ERROR - Invalid plate number format: ABY512N
+2025-01-12 09:01:27,393 - ERROR - Invalid plate number format: 9512N
+2025-01-12 09:01:28,281 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:28,987 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:32,018 - ERROR - Invalid plate number format: ABY8512N
+2025-01-12 09:01:32,640 - ERROR - Invalid plate number format: BBY2512R
+2025-01-12 09:01:35,796 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:36,163 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:36,619 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:37,229 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:37,611 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:38,013 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:39,127 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:39,439 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:39,810 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:40,416 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:40,715 - ERROR - Invalid plate number format: ABY8512M
+2025-01-12 09:01:41,026 - ERROR - Invalid plate number format: H8Y512R
+2025-01-12 09:01:41,304 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:41,959 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:43,199 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:44,573 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:44,938 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:45,501 - ERROR - Invalid plate number format: ABY9512R
+2025-01-12 09:01:46,702 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:47,118 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:49,001 - ERROR - Invalid plate number format: 0512N
+2025-01-12 09:01:51,109 - ERROR - Invalid plate number format: B5Y9512N
+2025-01-12 09:01:51,457 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:52,201 - ERROR - Invalid plate number format: 9512N
+2025-01-12 09:01:53,373 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:53,710 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:01:54,020 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:03:22,254 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:03:25,690 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:03:26,201 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:03:30,410 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:03:33,938 - ERROR - Error recording violation: Excel file format cannot be determined, you must specify an engine manually.
+2025-01-12 09:04:57,548 - INFO - Recorded violation: FBY52 - Number Coding
+2025-01-12 09:04:59,131 - INFO - Recorded violation: FPBY8512 - Number Coding
+2025-01-12 09:05:04,918 - INFO - Recorded violation: RPBY9512 - Number Coding
+2025-01-12 09:05:11,522 - INFO - Recorded violation: BY9512 - Number Coding
+2025-01-12 09:05:12,031 - INFO - Recorded violation: R9BY8512 - Number Coding
+2025-01-12 09:05:14,705 - INFO - Recorded violation: YA8Y8512 - Number Coding
+2025-01-12 09:05:15,078 - INFO - Recorded violation: ABY8512 - Number Coding
+2025-01-12 09:06:51,965 - INFO - Recorded violation: BBY8512 - Number Coding
+2025-01-12 09:07:45,992 - INFO - Recorded violation: B9572 - Number Coding
+2025-01-12 09:07:46,320 - INFO - Recorded violation: BAY8572 - Number Coding
+2025-01-12 09:07:46,641 - INFO - Recorded violation: BY8512 - Number Coding
+2025-01-12 09:07:46,980 - INFO - Recorded violation: BY9512 - Number Coding
+2025-01-12 09:07:47,873 - INFO - Recorded violation: B8512 - Number Coding
+2025-01-12 09:07:48,220 - INFO - Recorded violation: BABY9512 - Number Coding
+2025-01-12 09:07:48,541 - INFO - Recorded violation: ABY8512 - Number Coding
+2025-01-12 09:08:31,414 - INFO - Recorded violation: 7ABY8512 - Number Coding
+2025-01-12 09:08:32,376 - INFO - Recorded violation: BABY8512 - Number Coding
+2025-01-12 09:08:36,064 - INFO - Recorded violation: BAY9572 - Number Coding
+2025-01-12 09:08:37,552 - INFO - Recorded violation: BABY2512 - Number Coding
+2025-01-12 09:08:38,000 - INFO - Recorded violation: BABY9512 - Number Coding
+2025-01-12 09:08:38,469 - INFO - Recorded violation: BY9512 - Number Coding
+2025-01-12 09:08:40,643 - INFO - Recorded violation: ABY8512 - Number Coding
+2025-01-12 09:08:41,035 - INFO - Recorded violation: BY9572 - Number Coding
+2025-01-12 09:08:41,724 - INFO - Recorded violation: QBY9512 - Number Coding
+2025-01-12 09:08:42,478 - INFO - Recorded violation: ABY9512 - Number Coding
+2025-01-12 09:08:44,474 - INFO - Recorded violation: B98Y851 - Number Coding
+2025-01-12 09:13:29,382 - ERROR - Invalid plate number format: A1236N
+2025-01-12 09:13:35,677 - ERROR - Invalid plate number format: QP123N
+2025-01-12 09:13:38,569 - ERROR - Invalid plate number format: P1234N
+2025-01-12 09:13:49,063 - ERROR - Invalid plate number format: P223N
+2025-01-12 09:13:56,412 - ERROR - Error recording violation: [Errno 13] Permission denied: 'violations.xlsx'
+2025-01-12 09:19:45,714 - ERROR - Invalid plate number format: NBAAG
+2025-01-12 09:19:57,727 - ERROR - Invalid plate number format: DBA4658I
+2025-01-12 09:20:05,722 - ERROR - Invalid plate number format: BA4655I
+2025-01-12 09:20:08,540 - ERROR - Error recording violation: [Errno 13] Permission denied: 'violations.xlsx'
+2025-01-12 09:20:08,921 - ERROR - Invalid plate number format: DBA4E5RY
+2025-01-12 09:20:09,226 - ERROR - Invalid plate number format: DBAAER
+2025-01-13 20:45:34,681 - INFO - Recorded violation: AB8512 - Number Coding
+2025-01-13 20:45:37,163 - INFO - Recorded violation: ABY8512 - Number Coding
+2025-01-13 20:45:37,887 - INFO - Recorded violation: PBY8512 - Number Coding
+2025-01-13 20:45:38,514 - INFO - Recorded violation: B98Y9512 - Number Coding
+2025-01-13 20:45:39,330 - INFO - Recorded violation: ABY12 - Number Coding
+2025-01-13 20:45:39,656 - INFO - Recorded violation: BABY8512 - Number Coding
+2025-01-13 20:45:40,369 - INFO - Recorded violation: BAY8512 - Number Coding
+2025-01-13 20:45:41,604 - ERROR - Invalid plate number format: ABY8512P
+2025-01-13 20:45:43,301 - INFO - Recorded violation: ABY9512 - Number Coding
+2025-01-13 20:45:45,945 - INFO - Recorded violation: ABY2512 - Number Coding
+2025-01-13 20:45:46,283 - INFO - Recorded violation: BBY8512 - Number Coding
+2025-01-13 20:45:47,850 - INFO - Recorded violation: B9512 - Number Coding
+2025-01-13 20:45:49,543 - INFO - Recorded violation: Y8512 - Number Coding
+2025-01-13 20:45:53,933 - INFO - Recorded violation: BABY9512 - Number Coding
+2025-01-13 20:45:54,341 - INFO - Recorded violation: BAY9512 - Number Coding
+2025-01-13 20:45:54,995 - ERROR - Invalid plate number format: BBY9512J
+2025-01-13 20:45:57,637 - INFO - Recorded violation: ABY512 - Number Coding
+2025-01-13 20:46:02,210 - INFO - Recorded violation: ABY8572 - Number Coding
+2025-01-13 20:46:02,955 - INFO - Recorded violation: BABY8572 - Number Coding
+2025-01-13 20:46:06,816 - INFO - Recorded violation: 7ABY8512 - Number Coding
+2025-01-13 20:46:12,492 - INFO - Recorded violation: BY8512 - Number Coding
+2025-01-13 20:46:14,861 - INFO - Recorded violation: FABY8512 - Number Coding
+2025-01-13 20:46:17,162 - INFO - Recorded violation: 1ABY8912 - Number Coding
+2025-01-14 23:00:10,617 - INFO - Recorded violation: W1234 - Number Coding
+2025-01-14 23:00:11,534 - INFO - Recorded violation: NBC1234 - Number Coding
+2025-01-14 23:00:12,383 - ERROR - Invalid plate number format: NBC1234M
+2025-01-14 23:00:55,634 - INFO - Recorded violation: B1234 - Number Coding
+2025-01-14 23:01:00,015 - INFO - Recorded violation: M1234 - Number Coding
+2025-01-14 23:01:06,835 - ERROR - Invalid plate number format: T1234N
+2025-01-14 23:01:07,329 - INFO - Recorded violation: NBC1234 - Number Coding
+2025-01-14 23:01:08,420 - ERROR - Invalid plate number format: B1234N
+2025-01-14 23:01:09,027 - ERROR - Invalid plate number format: 1234N
+2025-01-14 23:02:28,449 - INFO - Recorded violation: M1234 - Number Coding
+2025-01-14 23:02:28,851 - INFO - Recorded violation: B1234 - Number Coding
+2025-01-14 23:02:30,181 - INFO - Recorded violation: NBC1234 - Number Coding
+2025-01-14 23:03:25,338 - ERROR - Error recording violation: [Errno 13] Permission denied: 'violations.xlsx'
+2025-01-15 08:14:08,790 - INFO - Recorded violation: B1236 - Number Coding
+2025-01-15 08:14:21,582 - ERROR - Invalid plate number format: B1254I
+2025-01-15 10:29:15,457 - INFO - Recorded violation: BUJF4725 - Number Coding
+2025-01-15 10:29:24,981 - ERROR - Invalid plate number format: 19E520J
+2025-01-15 10:29:25,826 - ERROR - Invalid plate number format: ES200S
+2025-01-15 10:29:26,273 - ERROR - Invalid plate number format: ES20097S
+2025-01-15 10:29:26,688 - ERROR - Invalid plate number format: ES2005TS
+2025-01-15 10:29:28,593 - INFO - Recorded violation: ES2005 - Number Coding
+2025-01-15 10:29:30,656 - INFO - Recorded violation: JPA25 - Number Coding
+2025-01-15 10:29:53,682 - ERROR - Invalid plate number format: S2000J
+2025-01-15 10:34:22,214 - INFO - Recorded violation: NBC1236 - Number Coding
+2025-01-15 10:34:33,515 - ERROR - Invalid plate number format: BUSFATO
+2025-01-15 10:34:39,783 - INFO - Recorded violation: BFA725 - Number Coding

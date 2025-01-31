@@ -1,0 +1,10 @@
+{
+    "model_path": "models/cnn_license_plate_model.h5",
+    "output_path": "data/violations.xlsx",
+    "min_confidence": 0.7,
+    "frame_skip": 2,
+    "plate_dimensions": {
+        "min_width": 100,
+        "min_height": 50
+    }
+}
